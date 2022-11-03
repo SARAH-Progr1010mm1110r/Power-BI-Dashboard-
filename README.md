@@ -1,2 +1,2 @@
-# Power-BI-Dashboard-
+# PowerBI-Dashboard
 **Create a Power BI dashboard with insightful visualizations**
